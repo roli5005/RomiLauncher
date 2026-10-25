@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.RomiLauncher" parent="@style/Theme.Leanback" />
+</resources>
