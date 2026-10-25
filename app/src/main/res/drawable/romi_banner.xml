@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <path
+        android:fillColor="@color/romi_background"
+        android:pathData="M0,0h320v180h-320z" />
+    <path
+        android:fillColor="@color/romi_banner_bg"
+        android:pathData="M16,16h288v148h-288z" />
+    <path
+        android:strokeColor="@color/romi_banner_fg"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M120,90m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0" />
+    <path
+        android:strokeColor="@color/romi_banner_fg"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M176,116L176,64M176,82C176,72 184,66 196,68M212,116L212,64" />
+</vector>
